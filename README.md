@@ -19,3 +19,5 @@ Les émojis supportés par MARP ont le code du [Emoji cheat sheet](https://www.w
 - MiGoul
 - Yousra
 - Sylvie
+
+on est 8!il est ou Claude? 
